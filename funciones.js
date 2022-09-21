@@ -1,0 +1,1 @@
+const unaFuncion = () => console.log(__dirname)
