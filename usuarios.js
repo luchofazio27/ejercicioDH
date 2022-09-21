@@ -9,4 +9,9 @@ const usuarios = [
         apellido: 'Fazio',
         edad: 32,
     },
+    {
+        nombre: 'kiya',
+        apellido: 'rojas',
+        edad: 5
+    }
 ]
